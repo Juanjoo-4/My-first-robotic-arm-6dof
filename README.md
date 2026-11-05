@@ -34,7 +34,7 @@ Before screwing on the metal servo horns, each servomotor is electronically cent
 * **Arduino IDE Note:** Select `Tools > Processor: "ATmega328P (Old Bootloader)"` if upload fails with `not in sync: resp=0x50`.
 
 👉 Source code: [`tools/calibrador_joystick_nano/`](./tools/calibrador_joystick_nano/).
-👉 Read full calibration guide: [`docs/`](./docs/calibration_90_degrees.md).
+👉 Read full calibration guide: [`docs/calibration_90_degrees.md`](./docs/calibration_90_degrees.md).
 
 ---
 
@@ -78,7 +78,7 @@ Antes de atornillar los soportes metálicos (horns), cada servomotor se centra e
 * **Nota en Arduino IDE:** Seleccionar `Tools > Processor: "ATmega328P (Old Bootloader)"` si aparece el error de subida `not in sync: resp=0x50`.
 
 👉 Código fuente: [`tools/calibrador_joystick_nano/`](./tools/calibrador_joystick_nano/).
-👉 Leer guía completa de calibración: [`docs/`](./docs/calibration_90_degrees.md).
+👉 Leer guía completa de calibración: [`docs/calibration_90_degrees.md`](./docs/calibration_90_degrees.md).
 
 ---
 
