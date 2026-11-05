@@ -33,8 +33,8 @@ Before screwing on the metal servo horns, each servomotor is electronically cent
 * **Joystick:** +5V to Nano `5V` pin *(Important: power strictly at 5V so the ADC reading range is not altered)*, VRx to pin `A0`, SW (button) to pin `D7`.
 * **Arduino IDE Note:** Select `Tools > Processor: "ATmega328P (Old Bootloader)"` if upload fails with `not in sync: resp=0x50`.
 
-- 👉 Source code: [`tools/calibrador_joystick_nano/`](./tools/calibrador_joystick_nano/).
-- 👉 Read full calibration guide: [`docs/calibration_90_degrees.md`](./docs/calibration_90_degrees.md).
+👉 Source code: [`tools/calibrador_joystick_nano/`](./tools/calibrador_joystick_nano/).  
+👉 Read full calibration guide: [`docs/calibration_90_degrees.md`](./docs/calibration_90_degrees.md).
 
 ---
 
@@ -77,8 +77,8 @@ Antes de atornillar los soportes metálicos (horns), cada servomotor se centra e
 * **Joystick:** +5V al pin `5V` del Nano *(Importante: alimentar estrictamente a 5V para no desplazar las lecturas analógicas del ADC)*, VRx al pin `A0`, SW (botón) al pin `D7`.
 * **Nota en Arduino IDE:** Seleccionar `Tools > Processor: "ATmega328P (Old Bootloader)"` si aparece el error de subida `not in sync: resp=0x50`.
 
-- 👉 Código fuente: [`tools/calibrador_joystick_nano/`](./tools/calibrador_joystick_nano/).
-- 👉 Leer guía completa de calibración: [`docs/calibration_90_degrees.md`](./docs/calibration_90_degrees.md).
+👉 Código fuente: [`tools/calibrador_joystick_nano/`](./tools/calibrador_joystick_nano/).  
+👉 Leer guía completa de calibración: [`docs/calibration_90_degrees.md`](./docs/calibration_90_degrees.md).
 
 ---
 
